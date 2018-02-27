@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Welcome Mr.LNReddy Diddala!" );
+        System.out.println( "Build automation done." );
     }
 }
